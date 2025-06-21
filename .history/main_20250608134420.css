@@ -1,9 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Hand+Pre:wght@400..700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Federo&display=swap');
-@import "tailwindcss";
-
-@theme {
-  --font-edu: "Edu VIC WA NT Hand Pre", "cursive";
-  --font-primary: "Federo", sans-serif;
-  --font-size-10xl: ["25rem","1.5"]
-}
